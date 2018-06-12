@@ -135,13 +135,13 @@ En el gráfico del árbol observamos que la Cadena 2 fue aceptada y de esa maner
 
 ### Conclusiones
 
-El método de obtener la tabla de análisis sintáctico, y procesar una cadena resultó mucho más fácil, puesto que es un ejercicio mecánico y solamente es cuestión de seguir los pasos hasta llegar a verificar si hay convergencia para saber si la cadena es aceptada o no. (Estrategia del punto c especificado en la hoja del Trabajo Práctico).
+El método de obtener la tabla de análisis sintáctico, y procesar una cadena resultó mucho más fácil, puesto que es un ejercicio mecánico y solamente es cuestión de seguir los pasos hasta llegar a verificar si hay convergencia para saber si la cadena es aceptada o no.
 
 LISP es un lenguaje sencillo pero potente, por eso la gramática en este caso no necesitó mucho tratamiento, sin embargo, se necesitó conocer e investigar un poco más sobre el lenguaje para entender su funcionamiento y probar las distintas cadenas.
 
-La estrategia mencionada en el punto b del Trabajo Práctico resultó más complicada, porque implicó analizar con mayor detalle cada parte para crear los árboles y el código fuente. Si bien en el presente documento sólo hay un árbol, en las pruebas se hicieron otros y empleó mayor esfuerzo en pensar la construcción de los posibles árboles. Así también, para crear el código y probar fue necesario pensar más que en la estrategia de la tabla y consumición de caracteres o tokens a medida que el algoritmo iba hacia la convergencia.
+La estrategia del árbol resulto más complicada, porque implicó analizar con mayor detalle cada parte para crear los árboles en base a las cadenas y el código fuente. Si bien en el presente documento sólo hay un árbol, en las pruebas se hicieron otros y se empleó mayor esfuerzo en desarrollar la construcción de los posibles árboles.
 
-Por último, una de las cosas más interesantes y sorprendentes es que con la estrategia de la tabla de análisis sintáctico se puede analizar bastante fácil y rápido una cadena, de hecho prácticamente cualquier cadena sin necesitar mucho poder de cómputo o análisis. Así como dice el libro de Aho en una parte, uno como diseñador de compiladores no puede saber cuál es la cadena exacta que será ingresada, así que la estrategia es hacer un compilador que pueda aceptar infinitas combinaciones de líneas de código y si toda la entrada está correcta, debería igual funcionar correctamente.
+Por último, una de las cosas más interesantes y sorprendentes es que con la estrategia de la tabla de análisis sintáctico se puede analizar bastante fácil y rápido una cadena, de hecho prácticamente cualquier cadena sin necesitar mucho poder de cómputo o análisis. Así como dice el libro de Aho en una parte, uno como diseñador de compiladores no puede saber cuál es la cadena exacta que será ingresada, por eso, la estrategia es hacer un compilador que pueda aceptar infinitas combinaciones de líneas de código y si toda la entrada está correcta, debería igual funcionar correctamente.
 
 
 ## Referencias
