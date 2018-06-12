@@ -3,7 +3,7 @@
 
 ## Introducción
 
-El analizador sintáctico se convierte en una herramienta principal en procesos que son guiados por la sintaxis. Esto es así gracias al alcance de la notación que se utiliza y delas herramientas de validación que se utilizan.
+El analizador sintáctico se convierte en una herramienta principal en procesos que son guiados por la sintaxis. Esto es así gracias al alcance de la notación que se utiliza y de las herramientas de validación que se utilizan.
 
 ### Descripción
 
